@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @prak-joy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-prak-joy/prak-joy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
-[java](https://github.com/prak-joy/java/blob/main/README.md)
+1. [java](https://github.com/prak-joy/java/blob/main/README.md)
+2. [spring](https://github.com/prak-joy/spring)
+3. [react]()
+4. [theory]()
+5. [tools](https://github.com/prak-joy/tools)
+
+
+-----------
+1. [stock]()
+
