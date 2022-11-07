@@ -5,6 +5,7 @@
 3. [react](https://github.com/prak-joy/react/blob/main/README.md)
 4. [methodologies](https://github.com/prak-joy/methodology/blob/main/README.md)
 5. [tools & technologies](https://github.com/prak-joy/tools/blob/main/README.md)
+6. [node.j](https://github.com/prak-joy/nodejs/blob/main/README.md
 
 
 -----------
