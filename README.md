@@ -6,9 +6,9 @@
 4. [spring](https://github.com/prak-joy/spring/blob/main/README.md)
 5. [node.js](https://github.com/prak-joy/nodejs/blob/main/README.md)
 6. [react](https://github.com/prak-joy/react/blob/main/README.md)
-7. 
-8. 
-9. 
+7. [python](https://github.com/prak-joy/python/blob/main/README.md)
+8. [Analysis, ML, DL & AI](https://github.com/prak-joy/analysis-ml-dl-ai/blob/main/README.md)
+
 
 -----------
 1. [wealth & income](https://github.com/prak-joy/stock/blob/main/README.md)
