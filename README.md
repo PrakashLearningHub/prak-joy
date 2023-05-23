@@ -1,5 +1,6 @@
+### Prakash Joy Mathews's Github Profile And Works
 
-
+#### To Learn
 1. [tools & technologies](https://github.com/prak-joy/tools-technology/blob/main/README.md)
 2. [methodologies & standard](https://github.com/prak-joy/methodologies-standards/blob/main/README.md)
 3. [java](https://github.com/prak-joy/java/blob/main/README.md)
@@ -10,6 +11,13 @@
 8. [machine learning](https://github.com/prak-joy/analysis-ml-dl-ai/blob/main/README.md)
 9. [database](https://github.com/prak-joy/database/blob/main/README.md)
 
------------
+#### Projects
+1. [Project List](https://github.com/prak-joy/projects)
+
+#### Personal & Wealth
 1. [wealth & income](https://github.com/prak-joy/stock/blob/main/README.md)
 
+
+
+#### Quick Notes & References
+1. [quick notes](readme/index.md)
