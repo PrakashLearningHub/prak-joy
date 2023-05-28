@@ -10,6 +10,7 @@
 7. [python](https://github.com/prak-joy/python/blob/main/README.md)
 8. [machine learning](https://github.com/prak-joy/analysis-ml-dl-ai/blob/main/README.md)
 9. [database](https://github.com/prak-joy/database/blob/main/README.md)
+10. [architecture](https://github.com/prak-joy/architecture/blob/main/README.md)
 
 #### Projects
 1. [Project List](https://github.com/prak-joy/projects)
