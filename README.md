@@ -4,7 +4,7 @@
 1. [tools & technologies](https://github.com/prak-joy/tools-technology/blob/main/README.md)
 2. [methodologies & standard](https://github.com/prak-joy/methodologies-standards/blob/main/README.md)
 3. [Data Structure And Algorithm](https://github.com/PrakashLearningHub/ds)
-4. [java](https://github.com/prak-joy/java/blob/main/README.md)
+4. [java](https://github.com/PrakashLearningHub/java_core/blob/main/README.md)
 5. [spring](https://github.com/prak-joy/spring/blob/main/README.md)
 6. [node.js](https://github.com/prak-joy/nodejs/blob/main/README.md)
 7. [react](https://github.com/prak-joy/react/blob/main/README.md)
